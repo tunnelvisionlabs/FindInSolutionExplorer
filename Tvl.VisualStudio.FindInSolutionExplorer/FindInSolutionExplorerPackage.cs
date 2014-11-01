@@ -13,7 +13,7 @@
     [PackageRegistration(UseManagedResourcesOnly = true)]
     [ProvideMenuResource(1000, 1)]
     [ProvideAutoLoad(UICONTEXT.SolutionExists_string)]
-    public class FindInSolutionExplorerPackage : Package
+    internal class FindInSolutionExplorerPackage : Package
     {
         private static FindInSolutionExplorerPackage _instance;
 

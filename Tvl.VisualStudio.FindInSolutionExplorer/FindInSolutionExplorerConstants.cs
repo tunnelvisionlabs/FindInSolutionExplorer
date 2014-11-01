@@ -2,7 +2,7 @@
 {
     using Guid = System.Guid;
 
-    public static class FindInSolutionExplorerConstants
+    internal static class FindInSolutionExplorerConstants
     {
         public const string guidFindInSolutionExplorerPackageString = "0F939440-B82D-4622-AED4-74828B40C8D2";
 
