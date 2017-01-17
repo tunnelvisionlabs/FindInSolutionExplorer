@@ -1,4 +1,4 @@
-# Find in Solution Explorer extension for Visual Studio 2010+
+# Find in Solution Explorer extension for Visual Studio 2012+
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0it4grdxq15jrp2w/branch/master?svg=true)](https://ci.appveyor.com/project/sharwell/findinsolutionexplorer/branch/master)
 
