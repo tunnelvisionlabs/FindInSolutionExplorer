@@ -6,4 +6,4 @@ This simple extension adds a new **Find In Solution Explorer** item to the conte
 
 This extension duplicates a feature provided by a different extension I released a few years ago to a small number of people. If you already have a **Find In Solution Explorer** menu item on the document tabs, then you probably don't need this one since it does the same thing.
 
-Note regarding Visual Studio 2012 and Newer: This extension is somewhat obsolete because the updated **Solution Explorer** includes a button on its tool bar for the **Sync with Active Document** command and the default shortcut <kbd>Ctrl</kbd>+<kbd>[</kbd>, <kbd>S</kbd>.
+:bulb: This extension is somewhat obsolete because the updated **Solution Explorer** includes a button on its tool bar for the **Sync with Active Document** command and the default shortcut <kbd>Ctrl</kbd>+<kbd>[</kbd>, <kbd>S</kbd>.
