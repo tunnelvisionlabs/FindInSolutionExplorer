@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="Tvl.VisualStudio.FindInSolutionExplorer.E528F3A5-318E-4F77-BC25-888236886F93" Version="3.0.0" Language="en-US" Publisher="Sam Harwell" />
+    <Identity Id="Tvl.VisualStudio.FindInSolutionExplorer.E528F3A5-318E-4F77-BC25-888236886F93" Version="3.1.0" Language="en-US" Publisher="Sam Harwell" />
     <DisplayName>Find in Solution Explorer</DisplayName>
     <Description>Adds the Find in Solution Explorer command to the context menu of open document tabs.</Description>
     <MoreInfo>https://github.com/tunnelvisionlabs/FindInSolutionExplorer</MoreInfo>
     <License>LICENSE.txt</License>
     <!-- Don't include the GettingStartedGuide because it makes a web browser pop up after installation -->
     <!--<GettingStartedGuide>https://marketplace.visualstudio.com/items?itemName=SamHarwell.FindinSolutionExplorer</GettingStartedGuide>-->
-    <ReleaseNotes>https://github.com/tunnelvisionlabs/FindInSolutionExplorer/releases/tag/3.0.0</ReleaseNotes>
+    <ReleaseNotes>https://github.com/tunnelvisionlabs/FindInSolutionExplorer/releases/tag/3.1.0</ReleaseNotes>
     <!--<Icon></Icon>-->
     <!--<PreviewImage></PreviewImage>-->
     <Tags>document, solution explorer</Tags>
